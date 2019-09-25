@@ -5,8 +5,8 @@ import requests
 # Token: https://trello.com/app-key and follow the hyperlink with the text Token on it
 
 # api key and token (might need to be updated periodically)
-key = "ccf23c6f13c6a2924cdc3d4defb20913"
-token = "73cdbc700254859418be9bd5ce675a5dfbfb5749dc94811e715c9cd368187cc9"
+key = ""
+token = ""
 
 # To find a card id (without creating a new card), you can click on a card in Trello manually and type .json after
 # the link, and the id will be one of the first things that shows up in the json dump. Otherwise, the card id that
